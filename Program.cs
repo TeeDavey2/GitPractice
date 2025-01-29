@@ -2,5 +2,3 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Test");
-
-Console.WriteLine("This is a mistake");
